@@ -1,8 +1,8 @@
 Bing Daily Image
 =================================
-This is a MacOS service to download the bing image of the day from bing.com and save it in a folder to use it as a wallpaper.
+This is an installable MacOS service that download the bing image of the day and save it in a local folder. This is intented to be used along with the configuration of dynamic wallpaper to have a daily gorgeous wallpaper in your macbook.
 
-I come from a windows enviroment and I really love the spotlight and bing photographs, they are gorgeous. But in Mac I cound't find an easy way to get any of that photos and usit as wallpapers so ... I made this service.
+I come from a windows enviroment and I really love the spotlight and bing photographs, they are really gorgeous. But in Mac I cound't find an easy way to get any of that photos and usit as wallpapers so ... I made this service.
 
 Any comments are welcome.
 

@@ -10,4 +10,4 @@ rm "$HOME$SCRIPT_DIR$SCRIPT_NAME";
 launchctl unload "$HOME$PLIST_DIR$PLIST_NAME";
 rm "$HOME$PLIST_DIR$PLIST_NAME";
 
-echo 'Uninstalled succeddfully';
+echo 'Uninstalled successfully';
